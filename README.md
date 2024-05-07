@@ -8,6 +8,6 @@
 ---
 ## Training & Evaluation
 
- ```bash
-    python EndoDINO.py
- ```
+```bash
+ python EndoDINO.py
+```
