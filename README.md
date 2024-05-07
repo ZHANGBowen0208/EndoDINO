@@ -12,3 +12,13 @@
  python EndoDINO.py
 ```
 ---
+## References
+1. DINOv2
+    - Paper [DINOv2: Learning Robust Visual Features without Supervision](https://arxiv.org/abs/2304.07193).
+    - official pytorch implementation [Code](https://github.com/facebookresearch/dinov2).
+
+2. LoRA
+    - Paper [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685).
+    - Official Pytorch implementation [Code](https://github.com/microsoft/LoRA).
+
+---
