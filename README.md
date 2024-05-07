@@ -21,4 +21,7 @@
     - Paper [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685).
     - Official Pytorch implementation [Code](https://github.com/microsoft/LoRA).
 
+3. Surgical_DINO
+    - Paper [Surgical-DINO: Adapter Learning of Foundation Models for Depth Estimation in Endoscopic Surgery](https://arxiv.org/abs/2401.06013).
+    - Official Pytorch implementation [Code](https://github.com/BeileiCui/SurgicalDINO).
 ---
